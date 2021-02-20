@@ -1,0 +1,25 @@
+body{
+    background-color:blue;
+    color:black;
+}
+#orderTable{
+    background-color: coral;
+    border: black 1px solid;
+}
+
+#orderTable td{
+    border: black 2px solid;
+}
+
+.status[order-status="ordered"]{
+    background-color:red;
+}
+.status[order-status="cooked"]{
+    background-color:orange;
+}
+.status[order-status="served"]{
+    background-color: yellow;
+}
+.status[order-status="paid"]{
+    background-color:green;
+}
