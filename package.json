@@ -1,0 +1,22 @@
+{
+  "name": "fastfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enjoy15/fastfood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enjoy15/fastfood/issues"
+  },
+  "homepage": "https://github.com/enjoy15/fastfood#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
